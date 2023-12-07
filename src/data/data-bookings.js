@@ -113,7 +113,6 @@ export const bookings = [
     numGuests: 4,
   },
 
-  // CABIN 004
   {
     created_at: fromToday(-30, true),
     startDate: fromToday(-4),
